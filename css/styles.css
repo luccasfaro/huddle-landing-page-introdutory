@@ -179,6 +179,12 @@ body {
 }
 
 @media(max-width: 550px) {
+   #header,
+   #container,
+   #social-media-footer {
+      padding: 2em 1em;
+   }
+
    #description-huddle h1 {
       font-size: 1.8em;
    }
